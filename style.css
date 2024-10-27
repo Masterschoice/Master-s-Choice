@@ -1,21 +1,28 @@
 h1{
     text-align: center;
-    color: rgb(9, 239, 97);5, 255);
+    background-color: #333;
+    color: rgb(255, 255, 255);5, 255);
     font-style: italic;
+    
 }
 nav a{
     overflow: auto;
     background-color: #333;
 }
 nav a{
+    text-align: center;
     float: left;
     display: block;
     color: #f2f2f2;
-    text-align: center;
     padding: 10px 60px;
     text-decoration: none;   
 }
 nav a:hover{
     background-color: #ddd;
     color: black;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    
 }
